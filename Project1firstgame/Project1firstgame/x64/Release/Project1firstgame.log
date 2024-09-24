@@ -1,0 +1,8 @@
+﻿  win32_platform.cpp
+  Generating code
+C:\Users\ARVIND\source\repos\Project1firstgame\Project1firstgame\win32_platform.cpp(114): warning C4715: 'WinMain': not all control paths return a value
+  1 of 2 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1firstgame.vcxproj -> C:\Users\ARVIND\source\repos\Project1firstgame\x64\Release\Project1firstgame.exe
