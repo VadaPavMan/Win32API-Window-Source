@@ -1,3 +1,0 @@
-﻿  win32_platform.cpp
-C:\Users\ARVIND\source\repos\Project1firstgame\Project1firstgame\win32_platform.cpp(76,1): warning C4715: 'WinMain': not all control paths return a value
-  Project1firstgame.vcxproj -> C:\Users\ARVIND\source\repos\Project1firstgame\x64\Debug\Project1firstgame.exe
